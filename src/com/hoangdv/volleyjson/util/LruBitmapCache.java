@@ -1,7 +1,7 @@
 /*
  * 
  */
-package com.hoangdv.framework.util;
+package com.hoangdv.volleyjson.util;
 
 import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;

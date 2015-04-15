@@ -1,4 +1,4 @@
-package com.hoangdv.framework.util;
+package com.hoangdv.volleyjson.util;
 
 /*
  * FileName: Utilities.java 
@@ -28,7 +28,7 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.hoangdv.framework.R;
+import com.hoangdv.volleyjson.R;
 
 /**
  * @author Hoangdv
